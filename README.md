@@ -1,2 +1,2 @@
-# parse-sql-error
-Package to parse sql errors 
+# parse-SQL-error
+Package to parse SQL errors 
